@@ -1,0 +1,3 @@
+# Curso Preditiva AI
+
+- Todos os materiais que estão aqui são, na realidade, as minhas resoluções para os exercícios e as aplicações propostas pelos módulos do [curso de Análise e Ciência de Dados da Preditiva AI](https://ead.preditiva.ai/). Portanto, as bases, motivações e projetos pertencem a eles. O que é de minha produção aqui são as resoluções dos exercícios. O meu objetivo aqui é aprender e por em prática todo o material que estou vendo no curso da Preditiva para poder consolidar meus conhecimentos como Analista de Dados e, em seguida, partir para maiores desafios nesse campo e no da Ciência de Dados. 
